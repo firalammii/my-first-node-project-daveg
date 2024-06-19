@@ -1,0 +1,10 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+}
+
+h1 {
+	background-color: blue;
+	text-shadow: 4px 4px 4px black;
+	color: white;
+}
